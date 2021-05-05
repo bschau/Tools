@@ -3,6 +3,7 @@
 A collection of small command line utilities:
 
 * hxd - a small hexdumper
+* imgsize - show sizes of jpeg or png images
 * qotd - Quote of the Day
 * remtilde - remove vim backup files (\*~)
 * sauk - a small static web server
